@@ -13,3 +13,6 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# CycleGAN repository
+pytorch-CycleGAN-and-pix2pix/
