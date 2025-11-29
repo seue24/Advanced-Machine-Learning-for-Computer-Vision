@@ -7,7 +7,7 @@ __pycache__/
 
 # Jupyter notebooks
 .ipynb_checkpoints/
-
+*-checkpoint.ipynb
 # macOS
 .DS_Store
 
@@ -16,3 +16,10 @@ __pycache__/
 
 # CycleGAN repository
 pytorch-CycleGAN-and-pix2pix/
+
+# Data & model artefacts at top level (just in case)
+datasets/
+results/
+checkpoints/
+*.pth
+*.zip
