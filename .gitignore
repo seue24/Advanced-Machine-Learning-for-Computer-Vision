@@ -17,6 +17,8 @@ __pycache__/
 # CycleGAN repository
 pytorch-CycleGAN-and-pix2pix/
 
+pytorch-CycleGAN-and-pix2pix
+
 # Data & model artefacts at top level (just in case)
 datasets/
 results/
